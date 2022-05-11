@@ -1,0 +1,25 @@
+.navbar{
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+}
+#baner{
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
+#baner a img{
+    width: 50px;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+
+}
+#baner a{
+    text-decoration: none;
+    color: white;
+}
+.img-wave1{
+    width: 100%;
+}
+

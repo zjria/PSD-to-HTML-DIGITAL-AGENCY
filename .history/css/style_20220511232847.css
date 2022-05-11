@@ -1,0 +1,94 @@
+.navbar{
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+}
+#baner{
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
+#baner a img{
+    width: 50px;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+
+}
+#baner a{
+    text-decoration: none;
+    color: white;
+}
+.img-wave1{
+    width: 100%;
+}
+
+/* Service Section */
+.title{
+    text-align: center;
+}
+.title::after{
+    content: "";
+    display: block;
+    background: #7B1798;
+    height: 3px;
+    width: 200px;
+    margin: auto;
+    transform: translateY(15px);
+}
+
+.services-button {
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    color: white;
+    border: none;
+    width: 120px;
+    height: 40px;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+/* Testimonial-section Section Start  */
+.Testimonial-section .man-img img{
+    width: 80px;
+    border-radius: 50%;
+}
+/* Cline-section Section Start  */
+.cline-div-style{
+    border-left: 3px solid #7B1798;
+}
+/* Social-section */
+.Social-section a{
+    margin: 5px;
+    
+}
+.Social-section img{
+    width: 35px;
+    border-radius: 10px 20px 30px 40px;
+    transition: 0.5s;    
+}
+.Social-section img:hover{
+    transform: translateY(-15px);   
+}
+
+/* Footer Section */
+#Footer{
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+}
+#Footer{
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
+.contract-style p{
+    margin: 10px 0px;
+}
+.contract-style .fab-icon {
+    font-size: 20px;
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    padding-top: 7px;
+    margin-right: 10px;
+    text-align: center;
+}
